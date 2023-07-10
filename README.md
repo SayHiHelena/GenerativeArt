@@ -2,7 +2,7 @@
 
 Some creative coding / generative art projects for fun: 
 1. The Spirit of Flowers
-2. Zen Garden(To Be Uploaded)
+2. Zen Garden
 
 
 ## Built With
