@@ -6,7 +6,8 @@ Some creative coding / generative art projects for fun:
 1. [The Spirit of Flowers](https://github.com/SayHiHelena/GenerativeArt/tree/main/A3_The_Spirit_of_Flowers)
 2. [Zen Garden](https://github.com/SayHiHelena/GenerativeArt/tree/main/Zen_Garden)
 3. [Olympic tile pattern generator](https://github.com/SayHiHelena/GenerativeArt/tree/main/OlympicTilePattern)
-4. The Window
+4. [Reed Grid Pattern](https://github.com/SayHiHelena/GenerativeArt/tree/main/ReedGridPattern)
+5.  The Window (WIP)
 
 
 ## Built With
@@ -16,4 +17,4 @@ Some creative coding / generative art projects for fun:
 
 ## Author
 
-* Helena Cui - cuiziyuan99@gmail.com
+* Ziyuan (Helena) Cui - cuiziyuan99@gmail.com
